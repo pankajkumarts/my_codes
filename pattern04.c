@@ -10,7 +10,7 @@
 int main() {
 	//code
 	char ch;
-	int i=0,j=0;
+	char i,j;
 	scanf("%c",&ch);
 	for(i='A';i<=ch;i++){
 	    for(j='A';j<=ch;j++){
